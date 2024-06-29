@@ -47,17 +47,16 @@ export default function Home() {
                 style={{
                   backgroundColor: "white",
                   borderRadius: "50%",
-
                   maxWidth: "40px",
                   maxHeight: "40px",
                 }}
               />
               <div className="font-bold text-3xl">
-                Arweave's Permanent Storage
+                Arweave&apos;s Permanent Storage
               </div>
             </div>
             <div className="text-xl">
-              Leveraging Arweave's decentralized storage for tamper-proof
+              Leveraging Arweave&apos;s decentralized storage for tamper-proof
               archival of research papers.
             </div>
           </li>
