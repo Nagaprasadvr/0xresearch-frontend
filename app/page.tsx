@@ -23,6 +23,10 @@ export default function Home() {
                 width={30}
                 height={30}
                 alt="solana-logo"
+                style={{
+                  maxWidth: "40px",
+                  maxHeight: "40px",
+                }}
               />
               <div className="font-bold text-3xl">
                 Solana-Powered Scalability
@@ -43,6 +47,9 @@ export default function Home() {
                 style={{
                   backgroundColor: "white",
                   borderRadius: "50%",
+
+                  maxWidth: "40px",
+                  maxHeight: "40px",
                 }}
               />
               <div className="font-bold text-3xl">
@@ -61,6 +68,10 @@ export default function Home() {
                 width={40}
                 height={40}
                 alt="solana-logo"
+                style={{
+                  maxWidth: "40px",
+                  maxHeight: "40px",
+                }}
               />
               <div className="font-bold text-3xl">Tokenized Incentives</div>
             </div>
@@ -76,6 +87,10 @@ export default function Home() {
                 width={40}
                 height={40}
                 alt="solana-logo"
+                style={{
+                  maxWidth: "40px",
+                  maxHeight: "40px",
+                }}
               />
               <div className="font-bold text-3xl">Decentralized Governance</div>
             </div>
@@ -91,6 +106,10 @@ export default function Home() {
                 width={40}
                 height={40}
                 alt="solana-logo"
+                style={{
+                  maxWidth: "40px",
+                  maxHeight: "40px",
+                }}
               />
               <div className="font-bold text-3xl">Global Accessibility</div>
             </div>
